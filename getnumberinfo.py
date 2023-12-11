@@ -1,4 +1,3 @@
-# Reference/doc - https://www.geeksforgeeks.org/phonenumbers-module-in-python/
 # pip install phonenumbers
 
 import phonenumbers
